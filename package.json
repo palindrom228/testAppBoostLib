@@ -1,0 +1,18 @@
+{
+  "name": "react-native-ussd-dial",
+  "version": "0.0.17",
+  "description": "npm module to immediately dial USSD codes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": "Kwamena-S",
+  "license": "MIT",
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  }
+}
